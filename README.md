@@ -8,4 +8,6 @@ This project was done using Angular 6
 3. Navigate to `http://localhost:4200/` in browser. 
 4. The app will automatically reload if you change any of the source files.
 
+##(the severity issue mentioned in the git repository is of bootstrap vesrions and it is not going to impact the appication perfomance or runtime)
+
 
